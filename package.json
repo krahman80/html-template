@@ -1,0 +1,15 @@
+{
+  "name": "htmltemplate",
+  "version": "1.0.0",
+  "description": "html template for SPA Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote -v"
+  },
+  "author": "Rahman",
+  "license": "UNLICENCED"
+}
