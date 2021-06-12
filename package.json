@@ -1,7 +1,7 @@
 {
   "name": "htmltemplate",
   "version": "1.0.0",
-  "description": "html template for SPA Apps",
+  "description": "comparing bulma.io and bootsrap 4 for SPA Apps",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
