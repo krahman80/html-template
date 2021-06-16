@@ -6,3 +6,9 @@
   background-size: cover;
   background-color: #999;
 }
+
+a.is-link:hover {
+  /* color: black; */
+  text-decoration: none;
+  background: #999;
+}
